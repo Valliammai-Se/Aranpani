@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "valliammaise",
+    "password": "SV@db*22",
+    "database": "aranpani",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "valliammaise",
+    "password": "SV@db*22",
+    "database": "aranpanitest",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
